@@ -22,7 +22,7 @@ module.exports = Object.freeze({
   },
   COMMANDS_USE_BOT_NAME: {
     ENABLED: false,  // If true, all commands except '/list' has to have the bot username after the command
-    NAME: "@SledgerCloud03bot"
+    NAME: "@SHILDEY_Bot"
   },
   IS_TEAM_DRIVE: true
 });
